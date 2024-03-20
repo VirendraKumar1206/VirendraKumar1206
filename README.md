@@ -108,7 +108,7 @@ Eager to apply my skills and passion in software testing and quality assurance. 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,selenium,jenkins,appium,github,java,js,mysql,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,selenium,jenkins,cypress,github,java,js,mysql,postman,vscode&perline=14" />
   </a>
 </p>
 
