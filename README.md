@@ -39,20 +39,6 @@
 -Manual Testing: Proficient in manual testing methodologies
 -Other: GitHub for version control and code collaboration
 
--📚 Projects:
--1. Amazon Application (Manual Testing):
-Developed and executed test scenarios and cases for critical functionalities including Sign-up, Sign-out, Search, and Add to Cart.
-Ensured thorough testing of key user journeys to enhance user experience and product reliability.
-
--2. nopCommerce (Automation Testing)
-Implemented Selenium automation for end-to-end testing of nopCommerce platform.
-Covered registration, login, product management, and checkout processes, ensuring smooth user interactions and accurate results.
-
--3. Banjara Ride App (Mobile Application Testing)
-Conducted comprehensive mobile testing using Appium on Android platform.
-Evaluated key features such as HireBike, Search Scooty, and Form functionality to ensure app reliability and user satisfaction.
-
-
 📫 Contact:
 Email: chakravartivirendra45@gmail.com
 Phone: +918448037120
