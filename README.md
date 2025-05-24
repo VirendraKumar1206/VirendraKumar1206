@@ -1,120 +1,134 @@
+<h1 align="center">👋 Hello! I'm Virendra Kumar</h1>
+<h3 align="center">🚀 Passionate Software Development Engineer in Test (SDET) | QA Automation Specialist | CI/CD Practitioner</h3>
 
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Virendra Kumar</h1></summary>
-  </ul>
-</div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Software Development Engineer in Test</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-👋 Hello! I'm Virendra kumar, a recent graduate with a Bachelor of Arts degree and a passion for ensuring software quality as a Software Development Engineer in Test (SDET). With a focus on automation and meticulous testing, I aim to contribute to the seamless delivery of high-quality software products.
-
-🎓 Education:
--Bachelor of Arts, Delhi University, Graduated 2022
-
-💼 Key Skills:
--Test Automation: Proficient in Selenium (Java), Appium (JavaScript, Java), and Cypress for robust automated test suites.
--Programming Languages: Skilled in Java and JavaScript, prioritizing clean and efficient code for testing.
--Quality Assurance: Experienced in manual testing methodologies and tools like JIRA for efficient issue tracking and project management.
--Communication & Teamwork: Strong verbal and written communication skills, fostering collaborative environments for successful project management.
-
--🔧 Tools & Technologies:
--Version Control: Git
--Test Frameworks: JUnit, TestNG, BDD Cucumber
--CI/CD: Jenkins
--API Testing: Postman, Rest Assured
--Performance Testing: JMeter
--Manual Testing: Proficient in manual testing methodologies
--Other: GitHub for version control and code collaboration
-
-📫 Contact:
-Email: chakravartivirendra45@gmail.com
-Phone: +918448037120
-Location: Wazirabad, New Delhi, 110084
-
-🔍 Seeking Opportunities:
-Eager to apply my skills and passion in software testing and quality assurance. Open to entry-level positions, internships, or opportunities to grow and make meaningful contributions.
-
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=VirendraKumar1206&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VirendraKumar1206&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VirendraKumar1206&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=VirendraKumar1206&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,selenium,jenkins,cypress,github,java,js,mysql,postman,vscode&perline=14" />
+  <a href="https://www.linkedin.com/in/virendrakumar45" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chakravartivirendra45@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/VirendraKumar1206" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
+---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+👨‍💻 About Me
 
-<!--icons and links-->
+I'm a **detail-oriented SDET** with **one year of experience in manual and automation testing**, designing scalable automation frameworks, executing end-to-end test plans, and ensuring the **highest product quality** in fast-paced Agile teams.
+
+- 🔭 Actively driving cross-platform test automation initiatives to enhance software quality  
+- 🌱 Deepening expertise in performance testing and exploring cutting-edge automation strategies  
+- 🧠 Committed to smart automation, delivering reliable results faster, and elevating testing standards
+
+🎓 Education:  
+- Bachelor of Arts, Delhi University, Graduated 2022
+
+💼 Key Skills:  
+- 🔭 Currently driving cross-platform test automation initiatives to deliver consistent, high-quality results across both web and mobile applications.  
+- 🌱 Committed to continuous learning, focusing on advancing skills in performance testing with JMeter, integrating AI/ML techniques into testing to enhance automation efficiency.  
+- 🧠 Guided by the philosophy: “Automate smart, test better, deliver faster,” I design scalable and efficient automation frameworks that accelerate reliable software delivery.  
+- 🏆 Expertise with a core toolset including Selenium, Appium, Rest Assured, Jenkins, and JMeter.  
+
+💬 Strong communication and 🤝 teamwork skills, fostering collaborative environments for successful project outcomes.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🔧 Automation Tools:  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![Appium](https://img.shields.io/badge/Appium-00C7B7?style=for-the-badge&logo=appium&logoColor=white)  
+![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)  
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)  
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge)
+
+### 🔬 API Testing:  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)  
+![RestAssured](https://img.shields.io/badge/RestAssured-black?style=for-the-badge)
+
+### 🔄 CI/CD:  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 💻 Languages & Tools:  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Projects That Make Me Proud
+
+### 🔹 [Selenium POM Framework](https://github.com/VirendraKumar1206/Selenium-TestNG-Framework)  
+> 🔸 Data-driven + POM  
+> 🔸 Extent reports + Excel utilities  
+> 🔸 Environment config support + logging
+
+### 🔹 [Appium + Emulator Automation](https://github.com/VirendraKumar1206/Appium-Framework)  
+> 🔸 Native app testing with AVD integration  
+> 🔸 Config-driven execution and advanced gestures  
+> 🔸 Real device & emulator compatibility
+
+### 🔹 [RestAssured API Framework](https://github.com/VirendraKumar1206/RestAssured-API-Testing)  
+> 🔸 Request chaining, schema validation  
+> 🔸 Token handling, assertions, and test suites  
+> 🔸 Postman collection → Java automation migration
+
+---
+
+## 📚 Certifications & Learning
+
+- 🎓 Dedicated to continuous learning in QA and Automation Engineering  
+- 🚀 Completed multiple hands-on projects covering Selenium, Appium, and API testing  
+- 📖 Actively mastering **CI/CD pipelines, performance testing, and cloud-based automation**  
+- 💡 Regular participant in online courses and webinars on cutting-edge QA technologies  
+- 🔥 Passionate about applying best practices and industry standards to deliver high-quality software
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-<a href="https://www.linkedin.com/in/virendrakumar45" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VirendraKumar1206&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=VirendraKumar1206&theme=radical" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirendraKumar1206&layout=compact&theme=radical" />
+</p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-----------------------------------------------------------------------
+## 🎯 Soft Skills & QA Philosophy
+
+- 🧩 Analytical thinker & problem solver  
+- 🎯 Strong communication & teamwork  
+- 🏹 QA is not just testing — it's delivering **confidence**
+
+---
+
+## 💬 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/virendrakumar45" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chakravartivirendra45@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/VirendraKumar1206" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Quote That Inspires Me
+
+> _“Quality is never an accident; it is always the result of intelligent effort.”_  
+> — John Ruskin
