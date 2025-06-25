@@ -17,7 +17,7 @@
 
 👨‍💻 About Me
 
-I'm a **detail-oriented SDET** with **one year of experience in manual and automation testing**, designing scalable automation frameworks, executing end-to-end test plans, and ensuring the **highest product quality** in fast-paced Agile teams.
+I'm a **detail-oriented SDET** with **2 year of experience in manual and automation testing**, designing scalable automation frameworks, executing end-to-end test plans, and ensuring the **highest product quality** in fast-paced Agile teams.
 
 - 🔭 Actively driving cross-platform test automation initiatives to enhance software quality  
 - 🌱 Deepening expertise in performance testing and exploring cutting-edge automation strategies  
