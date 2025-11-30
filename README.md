@@ -1,145 +1,101 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/images/banner.png" width="100%" alt="QA Banner"/>
-</p>
-
-<h1 align="center">👋 Hi, I'm <b>Virendra Kumar</b></h1>
-<h3 align="center">🔥 QA Engineer | SDET | Automation Specialist | Test Strategist</h3>
+<!-- Header Banner -->
+<h1 align="center">✨ Hi, I'm <b>Virendra Kumar</b> ✨</h1>
+<h3 align="center">🚀 QA Engineer | SDET | Automation Specialist | CI/CD Practitioner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Quality+Assurance+Engineer;Automation+Tester;SDET+with+2%2B+Years+Experience;API+Testing+Expert;CI%2FCD+%7C+Performance+Testing+Learner;Delivering+High+Quality+Software&center=true&width=650&height=45&color=00E5FF" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=600&lines=Quality+Assurance+Engineer;Automation+Tester;SDET+with+2%2B+Years+Experience;Building+Robust+Automation+Frameworks;Passionate+About+Test+Excellence" />
 </p>
 
 ---
 
-## 👨‍💻 **About Me**
+## 🔥 About Me
 
-I am a **Quality Assurance Engineer / SDET** with **2+ years of experience** in  
-**Manual Testing, Automation Testing, API Testing, Mobile Testing, and CI/CD**.
+I'm a **Quality Assurance Engineer / SDET** with **2+ years of experience** in Web, Mobile, and API automation.  
+I focus on creating **scalable automation frameworks**, improving test efficiency, and delivering **bug-free, high-quality software** in Agile environments.
 
-I specialize in building **robust automation frameworks**, improving product quality, and ensuring  
-stable releases through a **quality-first approach**.
-
-✨ **What I bring to the table:**  
-- Framework design expertise (**Selenium, Appium, RestAssured**)  
-- Strong manual testing foundation (test cases, test scenarios, regression cycles)  
-- Experience in Agile/Scrum & cross-functional collaboration  
-- Strong debugging & root-cause analysis mindset  
-- Commitment to continuous improvement & automation efficiency  
+✨ **What I’m Known For**  
+- Designing maintainable **Selenium, Appium & API automation frameworks**  
+- Improving test coverage & execution speed  
+- Smart debugging and root cause analysis  
+- Ensuring seamless CI/CD integrations  
+- Bringing a strong sense of ownership and quality-first mindset  
 
 🎓 **Education**  
-- Bachelor of Arts — *Delhi University* (2022)
+- **B.A., Delhi University (2022)**
 
 ---
 
-## 📈 **Visitor Count**
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=VirendraKumar1206&label=Profile+Views&color=brightgreen" />
-</p>
+## 🛠️ Tech Stack & Skills
 
----
-
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VirendraKumar1206&theme=radical&margin-w=15&no-bg=true&no-frame=true" />
-</p>
-
----
-
-## 🛠️ **Skills & Technologies (Everything QA Focused)**
-
-### **🔧 Automation Tools**
+### 🔧 **Automation Tools**
 <p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Appium-00C7B7?style=for-the-badge&logo=appium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-00C7B7?style=for-the-badge&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge" />
 </p>
 
-### **🧪 API Testing**
+### 🔬 **API Testing**
 <p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-  <img src="https://img.shields.io/badge/RestAssured-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/RestAssured-black?style=for-the-badge" />
 </p>
 
-### **📲 Mobile Automation**
+### 🔄 **CI/CD & DevOps**
 <p>
-  <img src="https://img.shields.io/badge/Appium-Mobile_Automation-593D88?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-### **🔄 CI/CD & DevOps**
+### 💻 **Programming & Tools**
 <p>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions"/>
-</p>
-
-### **💻 Languages & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 **Featured QA Projects**
+## 🚀 Featured Projects
 
-<details>
-<summary><b>🔹 Selenium Test Automation Framework</b></summary>
+### 🔹 **Selenium Test Automation Framework (POM + TestNG)**
+✔ Data-driven testing (Excel)  
+✔ Extent reporting  
+✔ Config-driven execution  
+✔ Scalable POM architecture  
+👉 Repo: **https://github.com/VirendraKumar1206/Selenium-TestNG-Framework**
 
-✔ Built using **POM + TestNG + Maven**  
-✔ Custom utilities, reporting, and config management  
-✔ Scalable and easy to maintain  
-🔗 **Repo**: https://github.com/VirendraKumar1206/Selenium-TestNG-Framework  
-</details>
+---
 
-<details>
-<summary><b>🔹 Appium Mobile Automation</b></summary>
+### 🔹 **Appium Mobile Automation Framework**
+✔ Native + hybrid apps  
+✔ AVD + real device supported  
+✔ Advanced gestures  
+👉 Repo: **https://github.com/VirendraKumar1206/Appium-Framework**
 
-✔ Native & hybrid apps  
-✔ Real device + emulator support  
-✔ Advanced gestures & UIAutomator2  
-🔗 **Repo**: https://github.com/VirendraKumar1206/Appium-Framework  
-</details>
+---
 
-<details>
-<summary><b>🔹 API Testing Framework (RestAssured)</b></summary>
-
-✔ Token handling  
+### 🔹 **RestAssured API Automation**
 ✔ Schema validation  
+✔ Token handling  
 ✔ Request chaining  
-🔗 **Repo**: https://github.com/VirendraKumar1206/RestAssured-API-Testing  
-</details>
+👉 Repo: **https://github.com/VirendraKumar1206/RestAssured-API-Testing**
 
 ---
 
-## 🕒 **QA Career Timeline**
+## 🎯 QA Mindset & Philosophy
 
-| Year | Milestone |
-|------|-----------|
-| **2022** | Graduated from Delhi University |
-| **2022** | Joined the QA field — manual testing |
-| **2023** | Built automation skills (Selenium + Java) |
-| **2023** | Started API automation (Postman + RestAssured) |
-| **2024** | Designed complete automation frameworks |
-| **2024-25** | Working as QA Engineer / SDET |
+✔ *Quality is responsibility — not a phase*  
+✔ *Smart automation saves time, not creates complexity*  
+✔ *Testing = Confidence + Reliability + Stability*  
+✔ *Focus on prevention, not detection*  
 
 ---
 
-## 💡 **QA Mindset & Philosophy**
-
-✔ *Test early, test often.*  
-✔ *Smart automation > more automation.*  
-✔ *Focus on reliability, not just passing tests.*  
-✔ *Prevent defects rather than just finding them.*  
-✔ *Quality is everyone's responsibility — but owned by QA.*
-
----
-
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VirendraKumar1206&show_icons=true&theme=tokyonight" />
@@ -152,23 +108,22 @@ stable releases through a **quality-first approach**.
 
 ---
 
-## 🤝 **Let's Connect**
+## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/virendrakumar45">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/virendrakumar45" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:chakravartivirendra45@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:chakravartivirendra45@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/VirendraKumar1206">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/VirendraKumar1206" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## ✨ **Favorite Quote**
-
-> _“Quality means doing it right even when no one is looking.”_  
-> — Henry Ford
+## ✨ Favorite Quote
+> _“Quality is never an accident. It is always the result of intelligent effort.”_  
+> — John Ruskin
