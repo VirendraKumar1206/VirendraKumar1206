@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello! I'm Virendra Kumar</h1>
-<h3 align="center">🚀 Passionate Software Development Engineer in Test (SDET) | QA Automation Specialist | CI/CD Practitioner</h3>
+<h3 align="center">🚀 QA Engineer | Automation Tester | SDET | CI/CD Practitioner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/virendrakumar45" target="_blank">
@@ -15,79 +15,78 @@
 
 ---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **detail-oriented SDET** with **2 year of experience in manual and automation testing**, designing scalable automation frameworks, executing end-to-end test plans, and ensuring the **highest product quality** in fast-paced Agile teams.
+I am a **QA Engineer / SDET** with **2 years of experience** in manual and automation testing. I specialize in building scalable automation frameworks, improving test coverage, and ensuring high-quality releases in Agile environments.
 
-- 🔭 Actively driving cross-platform test automation initiatives to enhance software quality  
-- 🌱 Deepening expertise in performance testing and exploring cutting-edge automation strategies  
-- 🧠 Committed to smart automation, delivering reliable results faster, and elevating testing standards
+- 🔍 Focused on building **robust automation frameworks**  
+- 🤖 Skilled in **Web, Mobile, and API automation**  
+- 🚀 Passionate about **CI/CD pipelines & smart automation**  
+- 🌱 Currently learning **performance testing and AI-based test optimization**  
+- 🧠 Strong believer in: _“Automate smart, test better, deliver faster.”_  
 
-🎓 Education:  
-- Bachelor of Arts, Delhi University, Graduated 2022
-
-💼 Key Skills:  
-- 🔭 Currently driving cross-platform test automation initiatives to deliver consistent, high-quality results across both web and mobile applications.  
-- 🌱 Committed to continuous learning, focusing on advancing skills in performance testing with JMeter, integrating AI/ML techniques into testing to enhance automation efficiency.  
-- 🧠 Guided by the philosophy: “Automate smart, test better, deliver faster,” I design scalable and efficient automation frameworks that accelerate reliable software delivery.  
-- 🏆 Expertise with a core toolset including Selenium, Appium, Rest Assured, Jenkins, and JMeter.  
-
-💬 Strong communication and 🤝 teamwork skills, fostering collaborative environments for successful project outcomes.
+🎓 **Education**  
+- Bachelor of Arts, Delhi University, 2022
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 🔧 Automation Tools:  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![Appium](https://img.shields.io/badge/Appium-00C7B7?style=for-the-badge&logo=appium&logoColor=white)  
-![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)  
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)  
+### 🔧 Automation Tools
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-00C7B7?style=for-the-badge&logo=appium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge)
 
-### 🔬 API Testing:  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)  
+### 🔬 API Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![RestAssured](https://img.shields.io/badge/RestAssured-black?style=for-the-badge)
 
-### 🔄 CI/CD:  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+### 🔄 CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 💻 Languages & Tools:  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+### 💻 Languages & Tools
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Projects That Make Me Proud
 
-### 🔹 [Selenium POM Framework](https://github.com/VirendraKumar1206/Selenium-TestNG-Framework)  
-> 🔸 Data-driven + POM  
-> 🔸 Extent reports + Excel utilities  
-> 🔸 Environment config support + logging
-
-### 🔹 [Appium + Emulator Automation](https://github.com/VirendraKumar1206/Appium-Framework)  
-> 🔸 Native app testing with AVD integration  
-> 🔸 Config-driven execution and advanced gestures  
-> 🔸 Real device & emulator compatibility
-
-### 🔹 [RestAssured API Framework](https://github.com/VirendraKumar1206/RestAssured-API-Testing)  
-> 🔸 Request chaining, schema validation  
-> 🔸 Token handling, assertions, and test suites  
-> 🔸 Postman collection → Java automation migration
+### 🔹 **Selenium POM Framework**
+📌 *Java + TestNG + Page Object Model*  
+📌 *Data-driven testing (Excel)*  
+📌 *Extent Reports, ConfigManager, Logger*  
+👉 Repo: **https://github.com/VirendraKumar1206/Selenium-TestNG-Framework**
 
 ---
 
-## 📚 Certifications & Learning
+### 🔹 **Appium Mobile Automation Framework**
+📱 Native & hybrid app automation  
+📌 Gesture support + AVD + real device testing  
+📌 Config-driven execution  
+👉 Repo: **https://github.com/VirendraKumar1206/Appium-Framework**
 
-- 🎓 Dedicated to continuous learning in QA and Automation Engineering  
-- 🚀 Completed multiple hands-on projects covering Selenium, Appium, and API testing  
-- 📖 Actively mastering **CI/CD pipelines, performance testing, and cloud-based automation**  
-- 💡 Regular participant in online courses and webinars on cutting-edge QA technologies  
-- 🔥 Passionate about applying best practices and industry standards to deliver high-quality software
+---
+
+### 🔹 **RestAssured API Automation Framework**
+📌 Request chaining, validation, JSON schema  
+📌 Token handling, assertions, suites  
+👉 Repo: **https://github.com/VirendraKumar1206/RestAssured-API-Testing**
+
+---
+
+## 🎯 Soft Skills & QA Philosophy
+
+- 🧩 Strong analytical & problem-solving skills  
+- 🤝 Collaborative team player  
+- 🔄 Adaptable and quick learner  
+- 🏹 QA is not just about finding bugs — it's about **building confidence in the product**  
 
 ---
 
@@ -104,15 +103,7 @@ I'm a **detail-oriented SDET** with **2 year of experience in manual and automat
 
 ---
 
-## 🎯 Soft Skills & QA Philosophy
-
-- 🧩 Analytical thinker & problem solver  
-- 🎯 Strong communication & teamwork  
-- 🏹 QA is not just testing — it's delivering **confidence**
-
----
-
-## 💬 Let's Connect!
+## 💬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/virendrakumar45" target="_blank">
@@ -129,6 +120,4 @@ I'm a **detail-oriented SDET** with **2 year of experience in manual and automat
 ---
 
 ## ✨ Quote That Inspires Me
-
-> _“Quality is never an accident; it is always the result of intelligent effort.”_  
-> — John Ruskin
+> _“Quality is never an accident; it is always the result of intelligent effort.”_ — John Ruskin
